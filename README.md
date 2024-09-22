@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**shree8904/shree8904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🔧 Shreekanth | Electronics & Communication Engineer 🎓  
+📡 Diploma holder in Electronics & Communication  
+💻 Passionate about backend & GUI development in Python  
+🌐 Full-stack developer & JavaScript enthusiast  
+🛠️ Embedded systems & MATLAB programming aficionado  
+🎮 Love blending electronics with coding—turning ideas into reality!  
+🌟 Let's innovate and connect!  
 
-Here are some ideas to get you started:
+#Electronics #Coding #TechEnthusiast #Fullstack #Innovator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+* ### Frontend :
+    * #### Javascript, HTML, CSS
+* ### Backend :
+    * #### Javascript, Python 
+* ### Web Frameworks :
+    * #### Django, FastAPI, Flask
+* ### Embedded :
+    * #### C, Assembly
+
+
+
+
+### 🔗 social media
+[![instagram](https://img.shields.io/badge/instagram-f34?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr_shree_18)
+[![linkedin](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shreekant.kappargaon)
+
