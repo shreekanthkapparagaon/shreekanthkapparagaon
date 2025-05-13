@@ -15,6 +15,6 @@
 
 
 ### 🔗 social media
-[![instagram](https://img.shields.io/badge/instagram-f34?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mr_shree_18)
+[![instagram](https://img.shields.io/badge/instagram-f34?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.shreekanth.18)
 [![linkedin](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shreekant.kappargaon)
 
