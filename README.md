@@ -11,16 +11,6 @@
 #Electronics #Coding #TechEnthusiast #Fullstack #Innovator
 
 
-## 🛠 Skills
-* ### Frontend :
-    * #### Javascript, HTML, CSS
-* ### Backend :
-    * #### Javascript, Python 
-* ### Web Frameworks :
-    * #### Django, FastAPI, Flask
-* ### Embedded :
-    * #### C, Assembly
-
 
 
 
