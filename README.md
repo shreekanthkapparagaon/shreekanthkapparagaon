@@ -69,8 +69,10 @@ Embedded Systems · Machine Learning · VLSI · GUI Applications · Web Developm
 
 I'm always open to collaborative opportunities, freelance projects, and innovative ideas. Feel free to connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreekanthkapparagaon/](https://www.linkedin.com/in/shree-n-k-a68a1a20b/)  
-- 📷 [Instagram](https://www.instagram.com/_mr_shree_18/](https://www.instagram.com/mr.shreekanth.18/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shree-n-k-a68a1a20b/ "Visit my LinkedIn profile for professional updates")
+- 📷 [Instagram](https://www.instagram.com/mr.shreekanth.18/ "Follow me on Instagram for personal and project snapshots")
+- 📧 [Email Me](mailto:shree.n.k585@gmail.com "Send me an email to connect or collaborate")
+
 
 ---
 
