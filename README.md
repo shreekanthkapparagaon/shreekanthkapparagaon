@@ -31,37 +31,6 @@ I believe in building tools that are simple, useful, and meaningful — whether 
 **Domains**:  
 Embedded Systems · Machine Learning · VLSI · GUI Applications · Web Development
 
----
-
-### 🚀 Selected Projects
-
-- 📚 [**Book Predictor**](https://github.com/shreekanthkapparagaon/Book-prediction-model)  
-  A machine learning model recommending academic books based on department and subject relevance.
-
-- 📝 [**Django Blog**](https://github.com/shreekanthkapparagaon/django-blog)  
-  A full-stack blog platform built with Django — includes user authentication and post management.
-
-- 🔐 [**Flask URL Shortener**](https://github.com/shreekanthkapparagaon/FLASK-URL-shortener)  
-  A lightweight tool to shorten URLs using Flask and Python.
-
-- 🧪 [**Python ML Lab Programs**](https://github.com/shreekanthkapparagaon/PYTHON-ML-LAB)  
-  Academic and self-practice machine learning lab assignments.
-
-- 🔩 [**VLSI Lab**](https://github.com/shreekanthkapparagaon/VLSI-LAB)  
-  Digital design simulations using TCL scripting and logic design principles.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreekanthkapparagaon&show_icons=true&theme=calm" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=shreekanthkapparagaon&theme=calm&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekanthkapparagaon&layout=compact&theme=calm" width="50%" />
-</p>
 
 ---
 
