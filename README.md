@@ -33,17 +33,77 @@ My current goal is to build a high-quality **open-source RTL IP library**, engin
 
 <br>
 
+---
 
-# Engineering Domains
+<h2 align="center">⚡ Engineering Focus</h2>
 
-| Domain | Focus |
-|---------|-------|
-| ⚡ **Digital Design** | RTL Design • Verilog • Protocol Controllers • Verification |
-| 🔧 **Embedded Systems** | ESP32 • STM32 • Arduino • Firmware |
-| 🐍 **Engineering Software** | Python • Automation • CLI • Desktop Applications |
-| 🌐 **Backend** | Django • Flask • REST APIs |
+<p align="center">
+The four pillars that define my engineering journey.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### ⚡ Digital Design
+
+Designing reusable RTL IPs using **Verilog HDL**.
+
+**Focus**
+
+`RTL Design` • `FSM` • `Protocols` • `Verification`
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🔧 Embedded Systems
+
+Developing firmware for modern embedded platforms.
+
+**Focus**
+
+`ESP32` • `STM32` • `Arduino` • `Drivers`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🐍 Engineering Software
+
+Building tools that improve engineering productivity.
+
+**Focus**
+
+`Python` • `Automation` • `CLI` • `GUI`
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🌐 Backend Development
+
+Creating scalable backend applications and APIs.
+
+**Focus**
+
+`Django` • `Flask` • `REST APIs` • `Databases`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+
 <br>
 
 # Featured Projects
