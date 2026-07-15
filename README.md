@@ -27,9 +27,7 @@
 
 I'm an **Electronics & Communication Engineer** passionate about designing **Digital Hardware**, developing **Embedded Systems**, and building **Engineering Software** that bridges hardware and software.
 
-My current goal is to build a high-quality **open-source RTL IP library**, engineering tools, and embedded projects while preparing for a career in **VLSI and Embedded Systems**.
-
----
+My current goal is to build a high-quality **open-source RTL IP library**, engineering tools, and embedded projects while continuously expanding my expertise in **Digital Design, Embedded Systems,** and **Engineering Software**.
 
 <br>
 
@@ -38,7 +36,7 @@ My current goal is to build a high-quality **open-source RTL IP library**, engin
 <h2 align="center">⚡ Engineering Focus</h2>
 
 <p align="center">
-The four pillars that define my engineering journey.
+Building reliable hardware and the software that supports it.
 </p>
 
 <br>
@@ -102,67 +100,144 @@ Creating scalable backend applications and APIs.
 
 </table>
 
----
 
 <br>
 
-# Featured Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **[VeriSketch](https://github.com/shreekanthkapparagaon/verisketch)** | Verilog visualization and RTL analysis tool *(In Development)* |
-| 📡 **[I2C Master Controller](https://github.com/shreekanthkapparagaon/i2c-master-controller)** | Parameterized Verilog I²C Master IP |
-| 🚌 **[APB3 Slave Peripheral](https://github.com/shreekanthkapparagaon/parameterized-apb3-slave)** | AMBA APB3 compliant slave controller |
-| 📶 **[SPI Master Controller](https://github.com/shreekanthkapparagaon/verilog-spi-master-controller)** | Full-duplex SPI Master IP |
-| 📥 **[UART Transceiver](https://github.com/shreekanthkapparagaon/uart-verilog-transceiver)** | UART Transmitter & Receiver |
-| 📥 **[Parameterized Sync FIFO](https://github.com/shreekanthkapparagaon/parameterized-sync-fifo)** | UART Transmitter & Receiver |
-
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/shreekanthkapparagaon?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+A selection of projects that showcase my work in Digital Design,
+Embedded Systems, and Engineering Software.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 VeriSketch
+
+**Verilog Visualization Tool**
+
+A Python-based tool for parsing Verilog HDL and generating architecture and RTL visualizations.
+
+**Tech Stack**
+
+`Python` `Verilog` `CLI`
+
+<a href="https://github.com/shreekanthkapparagaon/verisketch">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 I²C Master Controller
+
+**Parameterized RTL IP**
+
+A synthesizable Verilog implementation of the I²C protocol with simulation and verification.
+
+**Tech Stack**
+
+`Verilog` `FSM` `GTKWave`
+
+<a href="https://github.com/shreekanthkapparagaon/i2c-master-controller">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚌 APB3 Slave Peripheral
+
+**AMBA APB3 Peripheral**
+
+A configurable APB3 slave featuring a register bank, complete verification, and documentation.
+
+**Tech Stack**
+
+`Verilog` `AMBA APB3`
+
+<a href="https://github.com/shreekanthkapparagaon/apb3-slave-peripheral">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Smart LMS
+
+**Library Management System**
+
+A web-based library management system for managing books, members, borrowing, and returns.
+
+**Tech Stack**
+
+`Python` `Django` `SQLite`
+
+<a href="https://github.com/shreekanthkapparagaon/smart-lms">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/shreekanthkapparagaon?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
 ---
 <br>
 
-# Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
-```text
-RTL IP Library
+<p align="center">
+Continuously improving my skills through hands-on projects and open-source development.
+</p>
 
-✔ UART
-✔ SPI
-✔ I2C
-✔ APB3
+<br>
 
-⬜ FIFO
-⬜ PWM
-⬜ Timer
-⬜ AXI Lite
-⬜ AXI4
-⬜ SDRAM Controller
-⬜ Cache Controller
-⬜ RISC-V Core
-```
+- ⚡ Building a reusable **RTL IP Library** using Verilog HDL
+- 🧩 Developing **VeriSketch**, a Verilog visualization and analysis tool
+- 🔬 Exploring **RTL Verification** and **SystemVerilog**
+- 🔧 Expanding my **Embedded Systems** portfolio with ESP32 and STM32
+- 🐍 Creating Python tools that simplify engineering workflows
+
 
 ---
 <br>
-
-# GitHub Insights
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreekanthkapparagaon&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekanthkapparagaon&layout=compact&theme=github_dark&hide_border=true"/>
-
+A quick overview of my GitHub activity and primary languages.
 </p>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreekanthkapparagaon&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=shreekanthkapparagaon&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shreekanthkapparagaon&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -171,10 +246,14 @@ RTL IP Library
 
 <p align="center">
 
-Building Digital Hardware • Embedded Systems • Engineering Software
+### Thanks for visiting!
 
-<br><br>
+**Building Digital Hardware.**  
+**Embedded Systems.**  
+**Engineering Software.**
 
-Thanks for visiting 👋
+<br>
+
+<sub>Always learning. Always building.</sub>
 
 </p>
