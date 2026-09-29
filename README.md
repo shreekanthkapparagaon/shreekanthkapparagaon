@@ -241,7 +241,10 @@ A quick overview of my GitHub activity and primary languages.
 
 </p>
 
+
+
 ---
+
 <br>
 
 <p align="center">
@@ -252,7 +255,17 @@ A quick overview of my GitHub activity and primary languages.
 **Embedded Systems.**  
 **Engineering Software.**
 
+</p>
+
 <br>
+
+---
+
+<p align="center">
+
+> *"Engineering is not about choosing between hardware and software—it's about building systems where both work together."*
+
+</p>
 
 <sub>Always learning. Always building.</sub>
 
